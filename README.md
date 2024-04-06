@@ -14,3 +14,5 @@ Automation: Batch files can be used to automate repetitive download tasks.
 Flexibility: You can customize batch files to set different download options and parameters.
 
 Creating an application downloader with the .BAT command can be a useful and quick solution. However, it is important to be aware of the security risks when running batch files and to take the necessary precautions. By following the tips above, you can create a safe and useful .BAT application downloader.
+
+### [Release](https://github.com/nowte/AppDownloader/releases/)
